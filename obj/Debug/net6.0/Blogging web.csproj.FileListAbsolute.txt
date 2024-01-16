@@ -1,0 +1,69 @@
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Blogging web.staticwebassets.runtime.json
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Blogging web.exe
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Blogging web.deps.json
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Blogging web.runtimeconfig.json
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Blogging web.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Blogging web.pdb
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.AssemblyInfo.cs
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.RazorAssemblyInfo.cache
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.RazorAssemblyInfo.cs
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\staticwebassets\msbuild.Blogging web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\staticwebassets\msbuild.build.Blogging web.props
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blogging web.props
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blogging web.props
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\scopedcss\bundle\Blogging web.styles.css
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\scopedcss\projectbundle\Blogging web.bundle.scp.css
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.csproj.CopyComplete
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\refint\Blogging web.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.pdb
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\Blogging web.genruntimeconfig.cache
+C:\Users\pc\source\repos\Blogging web\Blogging web\obj\Debug\net6.0\ref\Blogging web.dll
+C:\Users\pc\source\repos\Blogging web\Blogging web\bin\Debug\net6.0\Blazored.TextEditor.dll

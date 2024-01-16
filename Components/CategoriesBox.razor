@@ -1,0 +1,67 @@
+﻿@using Blogging_web.Services
+@inject CategoryService CategoryService
+@inject AuthenticationState AuthenticationState
+@inject BlogPostService BlogPostService
+@inject AuthenticationStateProvider AuthenticationStateProvider;
+@using Microsoft.AspNetCore.Authorization
+
+<h3>Categories</h3>
+<hr />
+<ul class="list-unstyled">
+    @foreach (var category in categories)
+    {
+        var categoryPostsLink = $"/c/{category.Slug}/posts";
+        <li class="mb-1 border-bottom p-1">
+            <NavLink href="@categoryPostsLink" class="text-decoration-none fs-6 py-2">@category.Name</NavLink>
+        </li>
+    }
+</ul>
+
+@code {
+    [Parameter]
+    public string? CategorySlug { get; set; }
+
+    [Parameter]
+    public EventCallback<string> OnCategoryNameFound { get; set; }
+
+    private IEnumerable<Category> categories = Enumerable.Empty<Category>();
+
+    private string? prevSlug;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (prevSlug != CategorySlug)
+        {
+            await SetCategoryNameAsync();
+        }
+        prevSlug = CategorySlug;
+    }
+
+    private async Task LoadCategoriesAsync()
+    {
+        if (!categories.Any())
+        {
+            categories = await CategoryService.GetCategoriesAsync();
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCategoriesAsync();
+        // Ensure that the AuthenticationState is available
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        // You can access user information from authState.User
+    }
+
+    private async Task SetCategoryNameAsync()
+    {
+        if (!string.IsNullOrWhiteSpace(CategorySlug))
+        {
+            var categoryName = categories.FirstOrDefault(c => c.Slug == CategorySlug)?.Name;
+            if (categoryName != null)
+            {
+                await OnCategoryNameFound.InvokeAsync(categoryName);
+            }
+        }
+    }
+}
